@@ -5,7 +5,7 @@ I'm a Goal-oriented individual who is passionate about creating technologies and
 
 Find me around the web 🌎:  <img align="left" width="130" height="130" src="https://github.com/Devilyash/Devilyash/blob/master/image.jpg">
 ----------------------
-<ul align= "right">
+<ul style="text-align: right">
   <li>yash</li>
 </ul>
 - Posting technologies in [GoBlawg](https://goblawg.herokuapp.com/) 🗒️.
