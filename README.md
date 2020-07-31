@@ -3,12 +3,8 @@ Hi there, I'm Yash 👋
 
 I'm a Goal-oriented individual who is passionate about creating technologies and working on some cool ideas. Some technologies i enjoy working with include Python, Javascript. I'm looking for a challenging role in a reputable organization that welcomes innovative ideas and offers growth opportunities and a positive environment to fully utilize my technical abilities to reach the organization's goals and objectives of the computer science field.
 
-Find me around the web 🌎:  <img align="left" width="130" height="130" src="https://github.com/Devilyash/Devilyash/blob/master/image.jpg">
+Find me around the web 🌎:  <img align="left" width="130" height="130" src="https://github.com/Devilyash/Devilyash/blob/master/image.jpg">:
 ----------------------
-{: style="text-align: right" }
-<ul>
-  <li>yash</li>
-</ul>
 - Posting technologies in [GoBlawg](https://goblawg.herokuapp.com/) 🗒️.
 - Tinkering with interactions on [CodePen](https://codepen.io/devilyash) 💻.
 - Sharing updates on [Linkedin](www.linkedin.com/in/yash-goyal16) 🕸️.
