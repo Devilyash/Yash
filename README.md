@@ -6,9 +6,9 @@ I'm a Goal-oriented individual who is passionate about creating technologies and
 Find me around the web 🌎:  <img align="left" width="130" height="130" src="https://github.com/Devilyash/Devilyash/blob/master/image.jpg">
 ----------------------
 &nbsp; 
-- Posting technologies in [GoBlawg](https://goblawg.herokuapp.com/) 🗒️.<br />
-&nbsp; - Tinkering with interactions on [CodePen](https://codepen.io/devilyash) 💻.<br />
-&nbsp; - Sharing updates on [Linkedin](www.linkedin.com/in/yash-goyal16) 🕸️.<br />
+- Posting technologies in [GoBlawg](https://goblawg.herokuapp.com/) 🗒️.
+&nbsp; - Tinkering with interactions on [CodePen](https://codepen.io/devilyash) 💻.
+&nbsp; - Sharing updates on [Linkedin](www.linkedin.com/in/yash-goyal16) 🕸️.
 
 Languages and Tools 🧰:
 ----
