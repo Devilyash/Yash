@@ -7,8 +7,8 @@ Find me around the web 🌎:  <img align="left" width="130" height="130" src="ht
 ----------------------
 &nbsp; 
 - Posting technologies in [GoBlawg](https://goblawg.herokuapp.com/) 🗒️.
-&nbsp; - Tinkering with interactions on [CodePen](https://codepen.io/devilyash) 💻.
-&nbsp; - Sharing updates on [Linkedin](www.linkedin.com/in/yash-goyal16) 🕸️.
+- Tinkering with interactions on [CodePen](https://codepen.io/devilyash) 💻.
+- Sharing updates on [Linkedin](www.linkedin.com/in/yash-goyal16) 🕸️.
 
 Languages and Tools 🧰:
 ----
