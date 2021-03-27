@@ -1,9 +1,11 @@
 Hi there 👋
 =====================
 
+- 🔭 I'm currently working on Python, Javascript.
 - ✨ I'm currently learning to code efficiently.
-- 🙏 I’m looking for help with ... Software Development
-- :smile: Pronouns: He/Him.
+- 🙏 I’m looking for help with ... Software Development.
+- 💻 Checkout my latest Website in Flask(Python).
+- 😄 Pronouns: He/Him.
 - 📋 Ask me about anything.
 - ⚽ Fun fact: I love to play Football.
 
@@ -13,7 +15,7 @@ Hi there 👋
 - Tinkering with interactions on [CodePen](https://codepen.io/devilyash) 💻.
 - Sharing updates on [Linkedin](www.linkedin.com/in/yash-goyal16) 📎.
 
-Some Languages and Tools I worked upon🧰:
+Some Languages and Tools I worked upon 🔖:
 ----
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
