@@ -1,7 +1,8 @@
-Hi there, I'm Yash 👋
+Hi there 👋
 =====================
 
-I'm a Goal-oriented individual who is passionate about working with new technologies and some cool ideas. Some technologies i enjoy working alot includes Python, Javascript. I'm looking for a challenging role in a reputable organization that welcomes innovative ideas and offers growth opportunities and a positive environment to fully utilize my technical abilities to reach the organization's goals and objectives of the computer science field.
+![image](https://user-images.githubusercontent.com/39237928/112730783-6a1bcc00-8f59-11eb-8385-d9e21a88a3ba.png)
+
 
 ## Find me around the web 🌎:
 
