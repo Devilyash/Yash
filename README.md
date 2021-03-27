@@ -1,7 +1,7 @@
 Hi there 👋
 =====================
 
-- Pronouns: He/Him
+- :smile: Pronouns: He/Him
 
 ## Find me around the web 🌎:
 
