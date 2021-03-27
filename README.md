@@ -1,8 +1,7 @@
 Hi there 👋
 =====================
 
-![image](https://user-images.githubusercontent.com/39237928/112730783-6a1bcc00-8f59-11eb-8385-d9e21a88a3ba.png)
-
+- Pronouns: He/Him
 
 ## Find me around the web 🌎:
 
