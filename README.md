@@ -5,7 +5,7 @@ Hi there 👋
 
 ## Find me around the web 🌎:
 
-- Posting technologies in [GoBlawg](https://goblawg.herokuapp.com/) 🗒️.
+- <a href="mailto:yashgoyalg400@gmail.com">Shoot a mail anytime.</a> 🗒️.
 - Tinkering with interactions on [CodePen](https://codepen.io/devilyash) 💻.
 - Sharing updates on [Linkedin](www.linkedin.com/in/yash-goyal16) 🕸️.
 
