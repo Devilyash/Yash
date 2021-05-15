@@ -5,7 +5,7 @@ Hi, I'm a Web Developer. Apart from that I love getting involved in Competitive 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-**Talking about Personal Stuffs:**
+** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Talking about Personal Stuffs:**
 ---
 
 - 🔭 I'm currently working on ReactJS.
@@ -30,4 +30,7 @@ Hi, I'm a Web Developer. Apart from that I love getting involved in Competitive 
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyash&layout=compact&&langs_count=5&&hide=matlab,java,roff)](https://github.com/Devilyash/github-readme-stats)
 
-<img alt="Group" src="https://user-images.githubusercontent.com/39237928/118360558-f041af80-b5a5-11eb-92bb-5829dae82484.png" height="30px" width="30px"/> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
