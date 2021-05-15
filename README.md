@@ -33,4 +33,9 @@ Hi, I'm a Web Developer. Apart from that I love getting involved in Competitive 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
----
+<a href="https://github.com/Devilyash/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devilyash&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Devilyash/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devilyash&repo=convoychat" />
+</a>
