@@ -1,4 +1,4 @@
-### Hi there 👋
+**Hi there 👋**
 ---
 
 Hi,I'm a Web Developer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
@@ -15,7 +15,7 @@ Hi,I'm a Web Developer. Apart from that I love getting involved in Competitive P
 - 📋 Ask me about anything.
 - ⚽ Fun fact: I love to play Football.
 
-### Find me around the web 🌎:
+**Find me around the web 🌎:**
 ---
 
 - <a href="mailto:yashgoyalg400@gmail.com">Shoot a mail anytime.</a> ✉️.
