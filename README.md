@@ -33,4 +33,10 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyash&layout=compact&&langs_count=5&&hide=matlab,java,roff&theme=solarized-light&show_icons=true)](https://github.com/Devilyash/github-readme-stats)
 ---
 
+**Connect with me:**
+<p align = "center">
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+</p>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
