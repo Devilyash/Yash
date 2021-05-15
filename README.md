@@ -24,7 +24,6 @@
 <br />
 
 ## &#x1f4c8; GitHub Stats
----
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devilyash&show_icons=true&theme=solarized-light&cache_seconds=1800)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyash&layout=compact&&langs_count=5&&hide=matlab,java,roff&theme=solarized-light&show_icons=true)](https://github.com/Devilyash/github-readme-stats)
