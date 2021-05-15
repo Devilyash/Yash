@@ -29,8 +29,9 @@
 <br />
 <br />
 
+---
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devilyash&show_icons=true&theme=solarized-light&cache_seconds=1800)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyash&layout=compact&&langs_count=5&&hide=matlab,java,roff&theme=solarized-light&show_icons=true)](https://github.com/Devilyash/github-readme-stats)
-
+---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
