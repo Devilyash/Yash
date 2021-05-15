@@ -2,7 +2,7 @@ Hi there 👋
 =====================
 
 - 🔭 I'm currently working on Python, Javascript.
-- ✨ I'm currently learning to code efficiently.
+- 👨‍💻 I'm currently learning to code efficiently.
 - 💻 Checkout my latest [Website](https://predictgenics.herokuapp.com/) in Flask(Python).
 - 😄 Pronouns: He/Him.
 - 📋 Ask me about anything.
