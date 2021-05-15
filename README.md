@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devilyash&repo=Disease-Prediction-System&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-**Connect with me:**
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Connect with me:**
 ---
 
 <p align = "center">
@@ -48,4 +48,4 @@
 [<img src="https://img.shields.io/badge/codepen-%2312100E.svg?&style=for-the-badge&logo=codepen&logoColor=white&color=black" />](https://codepen.io/devilyash/)
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <samp><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></samp>
+<samp><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></samp>
