@@ -1,14 +1,14 @@
 **Hi there 👋**
 ---
 
-Hi,I'm a Web Developer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi, I'm a Web Developer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 ---
 
-- 🔭 I'm currently working on Python, Javascript.
+- 🔭 I'm currently working on ReactJS.
 - 👨‍💻 I'm currently learning to code efficiently.
 - 💻 Checkout my latest [Website](https://predictgenics.herokuapp.com/) in Flask(Python).
 - 😄 Pronouns: He/Him.
