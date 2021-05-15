@@ -36,4 +36,4 @@ Hi, I'm a Web Developer. Apart from that I love getting involved in Competitive 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyash&layout=compact&&langs_count=5&&hide=matlab,java,roff)](https://github.com/Devilyash/github-readme-stats)
 
-<code><img alt="Group" height="30px" width="30px" src="https://user-images.githubusercontent.com/39237928/118360558-f041af80-b5a5-11eb-92bb-5829dae82484.png"></code> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+<code><img alt="Group" src="https://user-images.githubusercontent.com/39237928/118360558-f041af80-b5a5-11eb-92bb-5829dae82484.png" height="30px" width="30px"></code> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
