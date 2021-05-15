@@ -7,13 +7,14 @@ Hi, I'm a Web Developer. Apart from that I love getting involved in Competitive 
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**Talking about Personal Stuffs:**
 ---
-
+<samp>
 - 🔭 I'm currently working on ReactJS.
 - 👨‍💻 I'm currently learning to code efficiently.
 - 💻 Checkout my latest [Website](https://predictgenics.herokuapp.com/) in Flask(Python).
 - 😄 Pronouns: He/Him.
 - 📋 Ask me about anything.
 - ⚽ Fun fact: I love to play Football.
+</samp>
 
 **Find me around the web 🌎:**
 ---
