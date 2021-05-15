@@ -14,19 +14,21 @@
 - 📋 Ask me about anything.
 - ⚽ Fun fact: I love to play Football.
 
-**Find me around the web 🌎:**
+** 🌎 Find me around the web:**
 ---
 
 - <a href="mailto:yashgoyalg400@gmail.com">Shoot a mail anytime.</a> ✉️.
 - Tinkering with interactions on [CodePen](https://codepen.io/devilyash) 💻.
 - Sharing updates on [Linkedin](www.linkedin.com/in/yash-goyal16) 📎.
 
-**Languages and Tools 🔖:**
+** 🔧 Technologies and Tools:**
 ---
 
 <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="21px" title="Python" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="21px" title="JavaScript" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="21px" title="Sass" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="21px" title="Docker" />   <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="21px" title="Linux" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="21px" title="Ubuntu" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="21px" title="Heroku" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="21px" title="CodePen" /> 
 <br />
 <br />
+
+## &#x1f4c8; GitHub Stats
 ---
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devilyash&show_icons=true&theme=solarized-light&cache_seconds=1800)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyash&layout=compact&&langs_count=5&&hide=matlab,java,roff&theme=solarized-light&show_icons=true)](https://github.com/Devilyash/github-readme-stats)
