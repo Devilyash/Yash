@@ -25,7 +25,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devilyash&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"&cache_seconds=1800)
+<a href="https://github.com/Devilyash/Devilyash">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devilyash&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" alt="YashG's GitHub Stats" />
+</a>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyash&layout=compact&&langs_count=5&&hide=matlab,java,roff&theme=solarized-light&show_icons=true)](https://github.com/Devilyash/github-readme-stats)
 <a href="https://github.com/Devilyash/Disease-Prediction-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devilyash&repo=Disease-Prediction-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
