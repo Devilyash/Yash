@@ -8,6 +8,9 @@ Hi there 👋
 - 📋 Ask me about anything.
 - ⚽ Fun fact: I love to play Football.
 
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 ## Find me around the web 🌎:
 
 - <a href="mailto:yashgoyalg400@gmail.com">Shoot a mail anytime.</a> ✉️.
