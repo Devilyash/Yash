@@ -25,7 +25,7 @@
 **Languages and Tools 🔖:**
 ---
 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="21px" title="Docker" />  <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="21px" title="Python" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="21px" title="JavaScript" />
+<img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="21px" title="Docker" />  <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="21px" title="Python" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="21px" title="JavaScript" />
 <br />
 <br />
 ---
