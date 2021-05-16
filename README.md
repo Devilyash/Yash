@@ -1,6 +1,5 @@
 ![](https://github.com/Devilyash/Devilyash/blob/master/Yash_Goyal.png)
 
-
 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Earth.gif" width="24px" style="max-width:100%;"> ![](https://github.com/Devilyash/Devilyash/blob/master/main.svg) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ---
 
