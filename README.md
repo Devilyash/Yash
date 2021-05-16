@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**Talking about Personal Stuffs:**
 ---
 
-- 🔭 I'm currently working on ReactJS.
+- 🔭 <samp>I'm currently working on ReactJS.</samp>
 - 👨‍💻 I'm currently learning to code efficiently.
 - 💻 Checkout my latest [Website](https://predictgenics.herokuapp.com/) in Flask(Python).
 - 😄 Pronouns: He/Him.
