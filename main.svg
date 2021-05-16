@@ -16,8 +16,9 @@
 h1 {
   width: 120px;
   text-align: center;
+  padding-top: 70px;
   color: #2ECC40 ;
-  font: 400 16px/1.5 Helvetica ,Arial ,sans-serif;
+  font: 700 16px/1.5 Helvetica ,Arial ,sans-serif;
   transform-origin: bottom;
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
