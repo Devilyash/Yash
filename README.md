@@ -10,11 +10,11 @@
 ---
 
 - 🔭 <samp>I'm currently working on ReactJS.</samp>
-- 👨‍💻 I'm currently learning to code efficiently.
-- 💻 Checkout my latest [Website](https://predictgenics.herokuapp.com/) in Flask(Python).
-- 😄 Pronouns: He/Him.
-- 📋 Ask me about anything.
-- ⚽ Fun fact: I love to play Football.
+- 👨‍💻 <samp>I'm currently learning to code efficiently.</samp>
+- 💻 <samp>Checkout my latest [Website](https://predictgenics.herokuapp.com/) in Flask(Python).</samp>
+- 😄 <samp>Pronouns: He/Him.</samp>
+- 📋 <samp>Ask me about anything.</samp>
+- ⚽ <samp>Fun fact: I love to play Football.</samp>
 
 🔧 **Technologies and Tools:**
 ---
