@@ -34,9 +34,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyash&layout=compact&hide=matlab,java,html,roff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_icons=true" />
 </a>
 
-<a href="https://github.com/Devilyash/Disease-Prediction-System">
+<!-- <a href="https://github.com/Devilyash/Disease-Prediction-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devilyash&repo=Disease-Prediction-System&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Connect with me:**
 ---
