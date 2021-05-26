@@ -19,7 +19,7 @@
 
 🔧 **Technologies and Tools:**
 ---
-<p align="cente">
+<p align="center">
   <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="21px" title="Python" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="21px" title="JavaScript" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="21px" title="Sass" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/djangoproject.svg" width="21px" title="Django Project" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="21px" title="git"/> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="21px" title="Docker" />   <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="21px" title="Linux" /> <img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="21px" title="Heroku" />
 </p>
 <br />
