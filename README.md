@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-<samp>Hi, I'm a Web Developer. Apart from that I love getting involved in Competitive Programming and Problem Solving.</samp>❤✌
+<samp>Hi, I'm a Software Engineer. Apart from that I love getting involved in Competitive Programming and Problem Solving.</samp>❤✌
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**Talking about Personal Stuffs:**
 ---
