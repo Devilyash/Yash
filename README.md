@@ -10,7 +10,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**Talking about Personal Stuffs:**
 ---
 
-- 🔭 <samp>I'm currently working on ReactJS.</samp>
+- 🔭 <samp>I'm currently working for Lentra AI.</samp>
 - 👨‍💻 <samp>I'm currently learning to code efficiently.</samp>
 - 💻 <samp>Checkout my latest [Website](https://predictgenics.herokuapp.com/) in Flask(Python).</samp>
 - 😄 <samp>Pronouns: He/Him/His.</samp>
