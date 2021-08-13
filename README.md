@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://github.com/Devilyash/Devilyash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyash&layout=compact&hide=matlab,java,html,roff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyash&layout=compact&hide=matlab,c++,html,roff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_icons=true" />
 </a>
 
 <!-- <a href="https://github.com/Devilyash/Disease-Prediction-System">
